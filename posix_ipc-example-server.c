@@ -9,6 +9,7 @@
 
 static char CLIENT_PROGRAM_NAME[] = "posix_ipc-example-client";
 
+
 int main() {
 
     char file[4096];
